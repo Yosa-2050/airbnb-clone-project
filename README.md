@@ -58,3 +58,15 @@ A well-designed booking system makes it easy for users to navigate, find propert
 
 **Importance of Identifying Design Properties**
 Understanding colors, fonts, and other design properties in a mockup helps maintain consistency across the app. It ensures the design looks professional, aligns with the brand, and provides a better user experience.
+
+
+## Project Roles and Responsibilities
+
+- **Project Manager**: Oversees the project timeline, coordinates the team, and ensures deliverables are completed on time.  
+- **Frontend Developers**: Build and implement UI components, ensure responsive design, and handle user interactions.  
+- **Backend Developers**: Create APIs, manage the database, and implement the business logic of the application.  
+- **Designers**: Create mockups, maintain the design system, and ensure good user experience (UX).  
+- **QA/Testers**: Write test cases, test the application, and report bugs to ensure quality.  
+- **DevOps Engineers**: Manage deployment, CI/CD pipeline, and server infrastructure.  
+- **Product Owner**: Define project requirements, prioritize features, and represent stakeholders’ interests.  
+- **Scrum Master**: Facilitate agile processes, remove blockers, and organize team meetings.
