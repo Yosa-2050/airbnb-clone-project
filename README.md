@@ -70,3 +70,28 @@ Understanding colors, fonts, and other design properties in a mockup helps maint
 - **DevOps Engineers**: Manage deployment, CI/CD pipeline, and server infrastructure.  
 - **Product Owner**: Define project requirements, prioritize features, and represent stakeholders’ interests.  
 - **Scrum Master**: Facilitate agile processes, remove blockers, and organize team meetings.
+
+
+## UI Component Patterns
+
+### Planned Components
+
+- **Navbar**
+  - Logo
+  - Search bar
+  - User navigation
+  - Responsive menu
+
+- **Property Card**
+  - Property image
+  - Basic details (price, location, rating)
+  - Favorite button
+  - Responsive layout
+
+- **Footer**
+  - Site links
+  - Company information
+  - Social media links
+  - Copyright information
+
+Each component will be designed to be reusable and consistent across the application.
